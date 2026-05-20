@@ -5,13 +5,13 @@
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <a href="https://github.com/PedroCnm">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Pedro%20N.%20Machado&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Senior%20Data%20Engineer%20%E2%80%A2%20Fortnite%20Data%20Wizard%20%E2%80%A2%20Brasil%20%F0%9F%87%A7%F0%9F%87%B7&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Pedro%20N.%20Machado&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Senior%20Data%20Engineer%20%E2%80%A2%20Cloud%20%C2%B7%20Spark%20%C2%B7%20Airflow%20%E2%80%A2%20Brasil%20%F0%9F%87%A7%F0%9F%87%B7&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
 </a>
 
 <div align="center">
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Senior+Data+Engineer+with+6%2B+years+in+the+trenches;Building+the+data+pipelines+behind+Fortnite+%F0%9F%8E%AE;Biology+grad+turned+petabyte+wrangler+%F0%9F%A7%AC%E2%86%92%F0%9F%93%8A;PySpark+%E2%80%A2+Databricks+%E2%80%A2+Airflow+%E2%80%A2+dbt+%E2%80%A2+SQL;I+turn+raw+telemetry+into+insights+that+ship" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Senior+Data+Engineer+with+6%2B+years+in+the+trenches;Designing+pipelines+that+chew+through+billions+of+events;Biology+grad+turned+petabyte+wrangler+%F0%9F%A7%AC%E2%86%92%F0%9F%93%8A;PySpark+%E2%80%A2+Databricks+%E2%80%A2+Airflow+%E2%80%A2+dbt+%E2%80%A2+SQL;I+turn+raw+telemetry+into+insights+that+ship" alt="typing" />
 </a>
 
 <br/>
@@ -37,7 +37,7 @@ class Pedro:
     def __init__(self):
         self.name        = "Pedro N. Machado"
         self.role        = "Senior Data Engineer"
-        self.company     = "EPAM Systems → Epic Games (Fortnite CAM team)"
+        self.company     = "EPAM Systems → Epic Games"
         self.location    = "Brasília, Brazil 🇧🇷"
         self.years_xp    = 6
         self.background  = "Biology B.Sc. → Data Science → Data Engineering"
@@ -299,7 +299,7 @@ class Pedro:
 
 <br/><br/>
 
-<i>Open to: data architecture chats, pipeline war stories, dbt vs Airflow flame wars, Fortnite Easter eggs.</i><br/>
+<i>Open to: data architecture chats, pipeline war stories, dbt vs Airflow flame wars, coffee orders.</i><br/>
 <i>Not open to: meetings that could've been an email.</i>
 
 </div>
